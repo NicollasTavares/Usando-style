@@ -2,6 +2,11 @@
 .texto-principal{
     color:blue
 }
-.texto-secundario{
-    color:blueviolet
+
+#texto1{
+    background-color: red;
+}
+
+#texto2{
+    background-color:white;
 }
